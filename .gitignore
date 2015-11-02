@@ -1,0 +1,5 @@
+bin/
+build/
+classes/
+WebContent/WEB-INF/config/jdbc.properties
+build.xml
